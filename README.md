@@ -65,12 +65,15 @@ The dataset contains 10,000 customer records with financial, demographic, and be
 ---
 ## 📊 Power BI Dashboard
 
-The project includes an interactive **Power BI** dashboard for visualizing customer churn patterns.  
+The project includes an interactive **Power BI** dashboard for visualizing customer churn patterns.
 
-- File Location: [`power_bi/Bank Customer Churn.pbix`](power_bi/Bank%20Customer%20Churn.pbix)  
+![Bank Customer Churn Dashboard](visuals/dashboard.png)
+
 - Explore churn by gender, geography, and product usage.  
 - Analyze trends in account balance, credit score, and tenure.  
 - Gain actionable insights for retention strategies.  
+
+You can also download the **Power BI file** here: [Bank Customer Churn.pbix](power_bi/Bank%20Customer%20Churn.pbix)
 
 
 ## 🧰 Tech Stack
