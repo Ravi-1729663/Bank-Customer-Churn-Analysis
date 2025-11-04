@@ -63,6 +63,15 @@ The dataset contains 10,000 customer records with financial, demographic, and be
 - Quickly resolve complaints to retain customers.  
 
 ---
+## 📊 Power BI Dashboard
+
+The project includes an interactive **Power BI** dashboard for visualizing customer churn patterns.  
+
+- File Location: [`power_bi/Bank Customer Churn.pbix`](power_bi/Bank%20Customer%20Churn.pbix)  
+- Explore churn by gender, geography, and product usage.  
+- Analyze trends in account balance, credit score, and tenure.  
+- Gain actionable insights for retention strategies.  
+
 
 ## 🧰 Tech Stack
 - Python 3.x  
@@ -75,16 +84,17 @@ The dataset contains 10,000 customer records with financial, demographic, and be
 ```plaintext
 Bank-Customer-Churn-Analysis/
 │
-├── README.md                    # Project overview, insights, and instructions
-├── requirements.txt             # Python dependencies
-├── data/                        # Raw and processed datasets
-│   ├──Customer Churn Records.csv                    # Original/raw datasets
-│   │ 
-│   └── processed/               # Cleaned and preprocessed datasets ready for analysis
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── Customer Churn Records.csv
+│   └── processed/
 │       └── cleaned_Customer Churn Records.csv
-├── notebooks/                   # Stepwise analysis in Jupyter Notebooks
+├── notebooks/
 │   └── Bank Customer Churn Analysis.ipynb
-├── visuals/                     # Generated plots and charts
+├── visuals/
+├── power_bi/                        
+│   └── Bank Customer Churn.pbix      # <-- Power BI file
 ```
 
 # Clone the repository
