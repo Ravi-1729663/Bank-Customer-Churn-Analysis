@@ -67,7 +67,7 @@ The dataset contains 10,000 customer records with financial, demographic, and be
 
 The project includes an interactive **Power BI** dashboard for visualizing customer churn patterns.
 
-![Bank Customer Churn Dashboard](visuals/dashboard.png)
+![Bank Customer Churn Dashboard](visulas/dashboard.png)
 
 - Explore churn by gender, geography, and product usage.  
 - Analyze trends in account balance, credit score, and tenure.  
