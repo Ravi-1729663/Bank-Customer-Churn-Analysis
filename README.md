@@ -73,7 +73,7 @@ The project includes an interactive **Power BI** dashboard for visualizing custo
 - Analyze trends in account balance, credit score, and tenure.  
 - Gain actionable insights for retention strategies.  
 
-You can also download the **Power BI file** here: [Bank Customer Churn.pbix](power%20BI/Bank%20Customer%20Churn.pbix)
+You can also download the **Power BI file** here: [Bank Customer Churn.pbix](/power%20BI/bank%20customer%20churn.pbix)
 
 
 ## 🧰 Tech Stack
